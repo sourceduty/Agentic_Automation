@@ -29,3 +29,5 @@ Artificial Intelligence (AI), Artificial General Intelligence (AGI), Artificial 
 [APCP](https://github.com/sourceduty/Assisted_Prompt_Control_Processing)
 <br>
 [Autonomous Computing](https://chatgpt.com/g/g-Q3UAgOEET-autonomous-computing)
+<br>
+[Automata Sim](https://chatgpt.com/g/g-67563176c2b481918953105d46331620-automata-sim)
